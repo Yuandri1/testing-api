@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "message": "Success",
+  "data": [
+    {
+      "nosj": "81942",
+      "tipe": "DRY",
+      "tanggal": null,
+      "kdmobil": "MDN114",
+      "toko": [
+        {
+          "kdtoko": "TOV5",
+          "nmtoko": "IDM REST AREA  KM 65 A",
+          "urut": "1"
+        },
+        {
+          "kdtoko": "TMKV",
+          "nmtoko": "IDM REST AREA  KM 65 B",
+          "urut": "2"
+        },
+        {
+          "kdtoko": "T78Z",
+          "nmtoko": "SUTOMO PAKAM",
+          "urut": "3"
+        }
+      ]
+    },
+    {
+      "nosj": "81944",
+      "tipe": "DRY",
+      "tanggal": "2025-08-24T20:06:34.178257",
+      "kdmobil": "MDN206",
+      "toko": [
+        {
+          "kdtoko": "TGU1",
+          "nmtoko": "NEGERI LAMA",
+          "urut": "1"
+        },
+        {
+          "kdtoko": "FA7O",
+          "nmtoko": "SENNAH",
+          "urut": "2"
+        },
+        {
+          "kdtoko": "F3C9",
+          "nmtoko": "LINTAS AEK NABARA KM 12",
+          "urut": "3"
+        }
+      ]
+    }
+  ]
+}
